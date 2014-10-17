@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dre:home|Door43 (dre)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dre|d43-dre repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dre/archive/master.zip|d43-dre.zip]]
+
+**Recent Changes**
+{{changes>ns = dre}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dre|Ethnologue data]]
+
